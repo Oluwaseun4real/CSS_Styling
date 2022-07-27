@@ -1,0 +1,14 @@
+.Top{
+    background-color: blue;
+    color: white;
+}
+
+.Middle{
+    background-color: blueviolet;
+    color: azure;
+}
+
+.Bottom{
+    background-color: chartreuse;
+    color: rgb(14, 2, 2);
+}
